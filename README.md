@@ -34,21 +34,75 @@
 ---
 
 ## 🚀 Featured Projects
-### 🎬 Movie Reservation System
-- Clean Architecture (.NET)
-- Redis Caching
-- Dockerized
-- CI/CD Pipeline (GitHub Actions)
-- Payment Integration (Stripe)
-- Ready for Cloud Deployment
 
-### ⚙️ DevOps Automation Lab
-- Terraform + LocalStack
-- Ansible Automation
-- CI/CD Pipelines
-- Infrastructure as Code
+### 🎬 Movie Reservation API
+Production-ready ASP.NET Core 9 REST API with full DevOps pipeline and scalable architecture.
+
+🔹 Tech: .NET 9, Clean Architecture, Redis, Docker, GitHub Actions, Stripe, SQL Server  
+🔹 Highlights:
+- JWT Authentication & Role-Based Access Control
+- Redis Caching with Pattern-Based Invalidation
+- Dockerized Environment with Docker Compose
+- CI/CD Pipeline using GitHub Actions
+- Stripe Payment Integration with Webhooks
+- Email Notifications (SMTP, MailKit)
+- Clean Architecture, Repository, Unit of Work, Specification Patterns
+
+🔗 Repository:  
+https://github.com/muhaammedalaa/MovieReservation
 
 ---
+
+### 🛒 Talabat E-Commerce Solution
+Modular multi-layered e-commerce platform supporting product management, cart, orders, and payments.
+
+🔹 Tech: ASP.NET Core, SQL Server, Redis, Docker, Stripe  
+🔹 Highlights:
+- JWT Authentication and Redis caching (40% performance improvement)
+- Clean Architecture (Repository, Unit of Work, Specification)
+- Secure payment workflows and order lifecycle management
+
+🔗 Repository:  
+https://github.com/muhaammedalaa/E-Commerce
+
+---
+
+### 🏗️ Tender Management & Financial System (TMS)
+Enterprise-grade system for managing tenders, contracts, suppliers, and financial workflows.
+
+🔹 Tech: ASP.NET Core, React, PostgreSQL, Docker  
+🔹 Highlights:
+- Role-based access control and multi-language support
+- Real-time notifications and reporting dashboards
+- CI/CD pipelines and multi-environment Docker setup
+
+🔗 Repository:  
+https://github.com/muhaammedalaa/TenderManagementSystem
+
+---
+
+### ✍️ Personal Blog Web Application
+Full-featured blog platform with admin panel and responsive UI.
+
+🔹 Tech: ASP.NET Core MVC, C#, Bootstrap  
+🔹 Highlights:
+- Role-based access control
+- Full CRUD operations
+- Responsive design using Razor Views
+
+🔗 Repository:  
+https://github.com/muhaammedalaa/Personal-Log
+
+---
+
+### ⚙️ Automated Server Monitoring Script
+Linux automation script for proactive server monitoring.
+
+🔹 Tech: Bash, Cron  
+🔹 Highlights:
+- Daily CPU, memory, and disk usage monitoring
+- Automated reporting for system health tracking
+
 
 ## 📫 Contact Me
 - LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-alaa-619b78241?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkyasU1tiR1uSpX7Q48YqEw%3D%3D)
